@@ -1,0 +1,7 @@
+```text
+numpy
+opencv-python
+scipy
+scikit-learn
+medmnist
+matplotlib
