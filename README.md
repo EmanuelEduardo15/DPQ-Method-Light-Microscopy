@@ -28,3 +28,4 @@ The method was validated on the public **BloodMNIST** dataset.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   python dpq_engine.py
